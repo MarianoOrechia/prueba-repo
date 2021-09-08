@@ -1,0 +1,5 @@
+# ignora la carpeta de nodes
+node_modules
+
+#ignora los archivos txt
+*.txt
